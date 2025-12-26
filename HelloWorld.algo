@@ -1,4 +1,5 @@
 Algo HelloWorld {
+// Début de l'algorithme HelloWorld
 fonction principale {
 // Création de la fenetre de l'algorithme
 Créer une fenetre de titre HELLO_WORLD_TITLE
